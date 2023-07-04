@@ -186,5 +186,5 @@ fabric.properties
 .vscode
 .pytest_cache
 
-____geckodriver/
+__geckodriver
 
